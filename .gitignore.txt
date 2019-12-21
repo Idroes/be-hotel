@@ -1,0 +1,6 @@
+*.war
+*.ear
+.git
+.classpath
+.project
+node_modules
